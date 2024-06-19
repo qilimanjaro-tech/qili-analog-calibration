@@ -1,0 +1,7 @@
+papermill==2.4.0
+qililab==0.25.1
+pandas==1.5.3
+scikit-optimize==0.9.0 
+qutip==4.7.3
+seaborn==0.13.1
+jupyter==1.0.0
