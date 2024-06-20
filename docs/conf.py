@@ -18,7 +18,7 @@ author = "Qilimanjaro"
 
 import analog_calibration  # pylint: disable=wrong-import-position  # noqa: E402
 
-release = qili_analog_calibration.__version__
+release = analog_calibration.__version__
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
