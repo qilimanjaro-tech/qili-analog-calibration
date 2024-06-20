@@ -16,7 +16,7 @@ project = "Qililab"
 copyright = "2024, Qilimanjaro"
 author = "Qilimanjaro"
 
-import qili_analog_calibration  # pylint: disable=wrong-import-position  # noqa: E402
+import analog_calibration  # pylint: disable=wrong-import-position  # noqa: E402
 
 release = qili_analog_calibration.__version__
 
