@@ -3,7 +3,7 @@ import os
 
 from setuptools import find_packages, setup
 
-PACKAGE = "qili-analog-calibration"
+PACKAGE = "qili_analog_calibration"
 
 
 with open("src/calibration/config/version.py") as f:
