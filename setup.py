@@ -3,10 +3,10 @@ import os
 
 from setuptools import find_packages, setup
 
-PACKAGE = "qili_analog_calibration"
+PACKAGE = "analog_calibration"
 
 
-with open("src/calibration/config/version.py") as f:
+with open("src/analog_calibration/config/version.py") as f:
     version = f.readlines()[-1].split()[-1].strip("\"'")
 
 
