@@ -23,10 +23,10 @@ with open(os.path.join(this_directory, "README.md"), encoding="utf-8") as f:
 setup(
     name=PACKAGE,
     version=version,
-    description="Fundamental package for fast characterization and calibration of quantum chips.",
+    description="Fundamental package for calibration of analog quantum chips.",
     author="Qilimanjaro Quantum Tech",
     author_email="info@qilimanjaro.tech",
-    url="https://github.com/qilimanjaro-tech/qililab",
+    url="https://github.com/qilimanjaro-tech/qili-analog-calibration",
     packages=find_packages("src"),
     package_dir={"": "src"},
     package_data={"": ["*.out"]},
