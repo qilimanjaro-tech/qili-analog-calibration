@@ -16,9 +16,7 @@ project = "Analog Calibration"
 copyright = "2024, Qilimanjaro"
 author = "Qilimanjaro"
 
-import analog_calibration  # pylint: disable=wrong-import-position  # noqa: E402
-
-release = analog_calibration.__version__
+release = "0.0.1"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
