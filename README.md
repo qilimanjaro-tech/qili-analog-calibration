@@ -2,7 +2,7 @@
 
 [![Documentation Status](https://readthedocs.org/projects/qililab/badge/?version=latest)](https://qaas.readthedocs.io/projects/qililab/en/latest/?badge=latest)
 
-Qili-analog-calibration is a generic and scalable analog quantum processing units calibration library used for fast calibration of analog quantum chips.
+Qili-analog-calibration is a generic and scalable calibration library used for fast calibration of analog quantum chips.
 
 ## Contributions
 

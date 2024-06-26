@@ -54,7 +54,7 @@ autodoc_member_order = "bysource"
 html_title = project
 html_permalinks_icon = Icons.permalinks_icon
 html_favicon = "_static/q_light.jpeg"
-html_baseurl = "https://qililab.com/"
+html_baseurl = "https://qili-analog-calibration.com/"
 html_theme = "sphinxawesome_theme"
 html_sidebars = {"**": ["sidebar_main_nav_links.html", "sidebar_toc.html"]}
 html_theme_options = {
@@ -65,7 +65,8 @@ html_theme_options = {
     "main_nav_links": {
         "QaaS": "https://qaas.readthedocs.io/en/latest/",
         "Qiboconnection": "https://qaas.readthedocs.io/projects/qiboconnection/en/latest/",
-        "Qililab": "index",
+        "Qililab": "https://qaas.readthedocs.io/projects/qililab/en/latest/",
+        "Qili-Analog-Calibration":  "index"
     },
     "extra_header_link_icons": {
         "repository on GitHub": {
