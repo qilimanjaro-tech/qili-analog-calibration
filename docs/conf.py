@@ -16,7 +16,7 @@ project = "Analog Calibration"
 copyright = "2024, Qilimanjaro"
 author = "Qilimanjaro"
 
-release = "0.0.1"
+release = "0.0.4"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
